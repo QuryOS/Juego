@@ -1,0 +1,17 @@
+{
+ "css": [
+  "juego/estilos.css"
+ ],
+ "js": [
+  "juego/config.js",
+  "juego/nucleo/util.js",
+  "juego/nucleo/pantalla.js",
+  "juego/recursos/procedural.js",
+  "juego/nucleo/modelos.js",
+  "juego/red/red.js",
+  "juego/escenas/carga.js",
+  "juego/escenas/lobby.js",
+  "juego/escenas/mundo.js",
+  "juego/main.js"
+ ]
+}
